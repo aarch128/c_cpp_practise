@@ -4,14 +4,14 @@
 #include<string>
 #include<algorithm>
 using namespace std;
-class Solution
+class SpiralOrder
 {
 public:
-	vector<int> spiralOrder(vector<vector<int> >& matrix)
+	void spiralOrder(vector<vector<int> >& matrix,vector<int>&save)
 	{
-		vector<int>save;
+		//vector<int>save;
 		Solve(matrix, save);
-		return save;
+		//return save;
 	}
 	void Solve(vector<vector<int>>& matrix, vector<int>& save)
 	{

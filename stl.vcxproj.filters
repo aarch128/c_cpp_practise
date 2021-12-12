@@ -18,12 +18,12 @@
     <ClCompile Include="stl.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="spiralOrder.cpp">
+    <ClCompile Include="SpiralOrder.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="spiralOrder.h">
+    <ClInclude Include="SpiralOrder.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

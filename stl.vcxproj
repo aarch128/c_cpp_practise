@@ -140,10 +140,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="stl.cpp" />
-    <ClCompile Include="spiralOrder.cpp" />
+    <ClCompile Include="SpiralOrder.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="spiralOrder.h" />
+    <ClInclude Include="SpiralOrder.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
