@@ -18,5 +18,14 @@
     <ClCompile Include="practise_12_12.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="反转链表.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="两个栈实现一个队列.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="list容器排序自定义数据类型.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

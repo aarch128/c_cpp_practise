@@ -139,7 +139,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="list容器排序自定义数据类型.cpp" />
     <ClCompile Include="practise_12_12.cpp" />
+    <ClCompile Include="两个栈实现一个队列.cpp" />
+    <ClCompile Include="反转链表.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
