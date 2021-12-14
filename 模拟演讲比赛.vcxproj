@@ -139,7 +139,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Speaker.cpp" />
+    <ClCompile Include="SpeechContest.cpp" />
     <ClCompile Include="SpeechManager.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Speaker.h" />
+    <ClInclude Include="SpeechManager.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
